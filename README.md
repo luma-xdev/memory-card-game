@@ -1,6 +1,6 @@
 # 🧠 Memory Card Game
 
-A simple and interactive memory card game built using Python, Flask, HTML, CSS and JavaScript.
+A fun and interactive memory card game built with Python, Flask, HTML, CSS and JavaScript.
 
 ## 🎮 Features
 
@@ -10,9 +10,9 @@ A simple and interactive memory card game built using Python, Flask, HTML, CSS a
 - Move counter
 - Timer
 - Pair counter
-- Win screen
+- Win popup
 - Restart button
-- Responsive design
+- Mobile responsive design
 
 ## 🛠️ Technologies
 
@@ -22,9 +22,18 @@ A simple and interactive memory card game built using Python, Flask, HTML, CSS a
 - CSS
 - JavaScript
 
-## ▶️ Run Locally
+## ▶️ How to Run
 
-Install dependencies:
+Install the requirements:
 
 ```bash
 pip install -r requirements.txt
+
+##start the GAME
+- python app.py
+
+## open the game
+ open this address in your browser
+http://127.0.0.1:5000
+
+## the memory card game will open in your browser
